@@ -12,17 +12,17 @@ let persons = [
     },
     {
         id: 2,
-        name: "Same Sonni",
-        number: "050-5142998"
+        name: "Tero Tonni",
+        number: "050-5142956"
     },
     {
         id: 3,
         name: "Jone Tsonsson",
-        number: "040-2015002"
+        number: "040-2015078"
     },
     {
         id: 4,
-        name: "Mäte Sonnius",
+        name: "Jane Sonni",
         number: "050-2345678"
     }
 ]
