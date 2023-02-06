@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.8173cfd8.css","mappings":"AAAA,YAMI,wBAA6B,CAD7B,0BAAwB,CAJxB,WAAY,CACZ,cAKJ","sources":["index.css"],"sourcesContent":[".completion {\n    color: green;\n    font-size: 20px;\n    border-style: groove;\n    border-width: 10px;\n    border-color: aquamarine;\n    background-color: greenyellow;\n}"],"names":[],"sourceRoot":""}
