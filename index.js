@@ -1,6 +1,3 @@
-// Koonti keskeneräisistä tehtävistä:
-// Backend: 3.2 timestamp, 
-// Frontend: 2.10 refaktorointi, 2.14 delete-painike, 3.15-3.18 frontin ja backin yhttyö yleisesti
 require('dotenv').config()
 const { response } = require('express')
 const express = require('express')
